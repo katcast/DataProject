@@ -1,4 +1,4 @@
-"State","Grade","Subject","Percentile","Score.2024","Score.2022","Score.2019","Score.Change","percentiletest","percentile.significant","gaptest","gap.significant"
+"State","Grade","Subject","Percentile","Score.2024","Score.2022","Score.2019","Score.Change","percentiletest","percentilesignificant","gaptest","gapsignificant"
 "Alabama",4,"Mathematics",10,192.397998809814,189.815999603272,189.148000335693,3.24999847412099,"x
 Diff = 3
 P-value = 0.3565",0,"x
